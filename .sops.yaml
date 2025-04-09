@@ -1,0 +1,3 @@
+creation_rules:
+  - age: age18dseu0phkgkguk779lh76mcq2ay59audq8r30m30xfe97wc8c5mqx25mnp
+    path_regex: installations/installation-1/.*secret.*

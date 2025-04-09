@@ -1,0 +1,4 @@
+foo: {{ .foo }}
+bar: {{ .bar }}
+todo: |
+  {{- include "todo" . | nindent 2 -}}
